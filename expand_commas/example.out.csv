@@ -1,0 +1,18 @@
+ID,Name,Size,Color,Price,Currency,Quantity
+1,Domestic Cat,small,black,23.4,EGP,99
+1,Domestic Cat,small,tabby,23.4,EGP,99
+1,Domestic Cat,small,tuxedo,23.4,EGP,99
+1,Domestic Cat,medium,black,23.4,EGP,99
+1,Domestic Cat,medium,tabby,23.4,EGP,99
+1,Domestic Cat,medium,tuxedo,23.4,EGP,99
+2,Domestic Dog,small,brown,0.01,USD,10000
+2,Domestic Dog,small,black,0.01,USD,10000
+2,Domestic Dog,medium,brown,0.01,USD,10000
+2,Domestic Dog,medium,black,0.01,USD,10000
+2,Domestic Dog,large,brown,0.01,USD,10000
+2,Domestic Dog,large,black,0.01,USD,10000
+3,Fibsh,small,gray,2.5,MXN,4
+3,Fibsh,small,red,2.5,MXN,4
+3,Fibsh,medium,gray,2.5,MXN,4
+3,Fibsh,medium,red,2.5,MXN,4
+4,Stone of Jordan,small,gold,1,USD,0
